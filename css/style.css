@@ -262,8 +262,6 @@ iframe{
     }
 }
 @media  screen and ( max-width: 700px ) {
-    .grid-galeria {
-    }
     .ciro div h2 {
         display: flex;
         justify-content: center;
