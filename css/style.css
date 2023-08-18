@@ -254,7 +254,7 @@ iframe{
         grid-auto-rows: 350px;
     }
     .grid-item{
-        grid columns: span 1;
+        grid-template-columns:  span 1;
         grid-row: span 1;
     }
     .grid-item-3{
@@ -262,7 +262,7 @@ iframe{
     }
 }
 @media  screen and ( max-width: 700px ) {
-    .grid-galeria{
+    .grid-galeria {
     }
     .ciro div h2 {
         display: flex;
@@ -342,9 +342,7 @@ iframe{
         width: 80%;
     }
 }
-@media screen and ( max-width: ){
-    
-}
+
 /** SERVICIOS**/
 .raton{
     display: flex;
