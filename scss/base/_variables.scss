@@ -4,16 +4,33 @@ $color-terciario: black;
 
 
 $paleta-colores:
-black
-#D2C9B8
-#f3a738
-#3B4851
+black,
+#D2C9B8,
+#f3a738,
+#3B4851,
 #ff7300;
 
 $font-size:
-16px
-20px
-24px
-25px
-30px
-35px
+16px,
+20px,
+24px,
+25px,
+30px,
+35px;
+
+
+@mixin flex($flex, $justify, $align, $direccion){
+    display: $flex;
+    justify-content: $justify;
+    align-items: $align;
+    flex-direction: $direccion;
+}
+
+.hero{
+    @include flex(flex, center, center, column)
+}
+
+.Diana{
+    @include flex(flex, center, center, column)
+}
+

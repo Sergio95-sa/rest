@@ -3,6 +3,18 @@
   padding: 0%;
   box-sizing: border-box; }
 
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; }
+
+.Diana {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; }
+
 header {
   background-color: #D2C9B8;
   padding: 25px;
