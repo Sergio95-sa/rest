@@ -1,16 +1,18 @@
 {
-  "dependencies": {
-    "node-sass": "^9.0.0",
-    "nodemon": "^3.0.1"
-  },
   "name": "proyecto-coder",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "nodemon": "^3.0.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss scss/estilos.scss css/estilos.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+    
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "<h1 align=\"center\">Hola 👋, soy Sergio</h1><h3 align=\"center\">Un desarrollador frontend apasionado de Argentina</h3><p align=\"left\"> <img src=\"https://komarev.com/ghpvc/?username=sergio95-sa&label=Profile%20views&color=0e75b6&style=flat\" alt=\"sergio95-sa\" /> </p>"
 }
