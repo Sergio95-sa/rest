@@ -21,7 +21,7 @@
                 font-size: 20px;
         }
 }
-    
+
 .Diana{
     background-color: #f3a738;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -474,6 +474,9 @@ main {
                         margin-left: 20px;
                 }
         }
+}
+.rotate:hover{
+        transform: scale(1.3);
 }
 .encuesta{
         display: flex;
