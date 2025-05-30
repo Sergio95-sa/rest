@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Sergio</h1><h3 align="center">Un desarrollador frontend apasionado de Argentina</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=sergio95-sa&label=Profile%20views&color=0e75b6&style=flat" alt="sergio95-sa" /> </p>
+<h1 align="center">Hola 👋, soy Sergio</h1><h3 align="center">Un desarrollador frontend apasionado de Cordoba Argentina viviendo en Chui Brasil</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=sergio95-sa&label=Profile%20views&color=0e75b6&style=flat" alt="sergio95-sa" /> </p>
 
 
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sergio heredia" target="blank"><img src="https://img.shields.io/twitter/follow/sergio heredia?logo=twitter&style=for-the-badge" alt="Sergio Heredia" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en **Bruma Restaurante**
+- 🔭 Actualmente estoy trabajando en **Mundo Animal**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
